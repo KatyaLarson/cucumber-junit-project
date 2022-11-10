@@ -1,0 +1,4 @@
+file:src/test/resources/features/wiki_search.feature:12
+file:src/test/resources/features/dropdown.feature:4
+file:src/test/resources/features/webtableLogin.feature:19
+file:src/test/resources/features/etsyTitleVerification.feature:13
