@@ -16,7 +16,7 @@ import org.junit.runner.RunWith;
                 "me.jvt.cucumber.report.PrettyReports:target/cucumber",
                 "json:target/cucumber.json"
         },
-        tags = "@smoke",
+        tags = "",
         publish = true
 )
 public class CukesRunner {
