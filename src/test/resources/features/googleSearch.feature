@@ -1,4 +1,5 @@
-Feature: Google searcch functionality
+@regression
+Feature: Google search functionality
   User story: as a user, when i am on the google search page
   I should be able to search whatever i want and see relevant information
 
