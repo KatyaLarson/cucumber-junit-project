@@ -28,7 +28,7 @@ public class Driver {
             if (System.getProperty("BROWSER")==null){
                 browserType=ConfigReader.getProperty("browser");
             }else {
-                browserType=System.getProperty("BROWSER");
+                browserType=ConfigReader.getProperty("BROWSER");
             }
 
 
